@@ -165,11 +165,11 @@
             
             <tag> Java并发 </tag>
             
-            <tag> API </tag>
-            
             <tag> Thread pool </tag>
             
             <tag> Thread </tag>
+            
+            <tag> API </tag>
             
         </tags>
       
@@ -436,13 +436,13 @@
             
             <tag> Java并发 </tag>
             
-            <tag> API </tag>
-            
-            <tag> Executor </tag>
-            
             <tag> Thread pool </tag>
             
             <tag> Thread </tag>
+            
+            <tag> API </tag>
+            
+            <tag> Executor </tag>
             
         </tags>
       
@@ -469,13 +469,13 @@
             
             <tag> Java并发 </tag>
             
-            <tag> API </tag>
-            
-            <tag> Executor </tag>
-            
             <tag> Thread pool </tag>
             
             <tag> Thread </tag>
+            
+            <tag> API </tag>
+            
+            <tag> Executor </tag>
             
         </tags>
       
@@ -502,13 +502,13 @@
             
             <tag> Java并发 </tag>
             
-            <tag> API </tag>
-            
-            <tag> Executor </tag>
-            
             <tag> Thread pool </tag>
             
             <tag> Thread </tag>
+            
+            <tag> API </tag>
+            
+            <tag> Executor </tag>
             
         </tags>
       
@@ -535,15 +535,15 @@
             
             <tag> Java并发 </tag>
             
-            <tag> API </tag>
-            
             <tag> Thread pool </tag>
             
             <tag> Thread </tag>
             
-            <tag> forkJoinPool </tag>
+            <tag> API </tag>
             
             <tag> 工具 </tag>
+            
+            <tag> forkJoinPool </tag>
             
         </tags>
       
