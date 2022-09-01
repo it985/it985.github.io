@@ -1,6 +1,7 @@
 ## My posts  
-### **2022-06** (8)  
+### **2022-06** (9)  
 - 2022-06-08 [二十、Java 8 函数接口 （ Functional interface ）](https://tryrun.gitee.io/posts/783096c.html)  
+- 2022-06-08 [专栏汇总：Java8 新特性](https://tryrun.gitee.io/posts/b4cd1e40.html)  
 - 2022-06-07 [十九、Java 8 流 Stream ( 下 )](https://tryrun.gitee.io/posts/f4456923.html)  
 - 2022-06-06 [十八、Java 8 流 Stream ( 上 )](https://tryrun.gitee.io/posts/62e87c35.html)  
 - 2022-06-05 [十七、Java 8 新日期时间 API ( 下 ) – 格式化](https://tryrun.gitee.io/posts/1054668a.html)  
@@ -10,7 +11,7 @@
 - 2022-06-01 [十三、Java 8 可选值 java.util.Optional 类](https://tryrun.gitee.io/posts/3b70afd5.html)  
   
   
-### **2022-05** (31)  
+### **2022-05** (32)  
 - 2022-05-31 [十二、Java 8 集合遍历 forEach() 方法](https://tryrun.gitee.io/posts/8d0e4be4.html)  
 - 2022-05-30 [十一、Java 8 接口静态方法](https://tryrun.gitee.io/posts/e3c8b1a4.html)  
 - 2022-05-29 [十、Java 8 接口 ( interface ) 默认方法](https://tryrun.gitee.io/posts/efaf0a50.html)  
@@ -24,6 +25,7 @@
 - 2022-05-21 [二、Java8 IntStream,LongStream,DoubleStream](https://tryrun.gitee.io/posts/edc65d6d.html)  
 - 2022-05-20 [一、Java8 收集器 – java.util.stream.Collectors](https://tryrun.gitee.io/posts/c2245ef4.html)  
 - 2022-05-19 [十九、Java并发 Java wait() 和 notify() 方法](https://tryrun.gitee.io/posts/2b1d309b.html)  
+- 2022-05-19 [专栏汇总：Java并发](https://tryrun.gitee.io/posts/718bea50.html)  
 - 2022-05-18 [十八、Java并发 Java 之 Runnable 还是 Thread ?](https://tryrun.gitee.io/posts/c969ad4b.html)  
 - 2022-05-17 [十七、Java并发 Java Thread 生命周期](https://tryrun.gitee.io/posts/9c8c1a2d.html)  
 - 2022-05-16 [十六、Java并发 Java ThreadLocalRandom](https://tryrun.gitee.io/posts/9c264667.html)  

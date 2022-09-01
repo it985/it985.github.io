@@ -31,6 +31,33 @@
     
     
     <entry>
+      <title>专栏汇总：Java8 新特性</title>
+      <link href="/posts/b4cd1e40.html"/>
+      <url>/posts/b4cd1e40.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="专栏汇总：Java8-新特性"><a href="#专栏汇总：Java8-新特性" class="headerlink" title="专栏汇总：Java8 新特性"></a><a href="/b4cd1e40.html">专栏汇总：Java8 新特性</a></h1><p>Java 更新的很快，但我的知识储备还停留在 Java 7 的年代…是我们落伍了，还是这个社会不需要我们这么超前。但如果有一天，你自己能做主了，你会上 最新版本 吗？ 不管如何，先把 Java8 学习了</p><ul><li><a href="/posts/783096c.html">二十、Java 8 函数接口 （ Functional interface ）</a>  </li><li><a href="/posts/f4456923.html">十九、Java 8 流 Stream ( 下 )</a>  </li><li><a href="/posts/62e87c35.html">十八、Java 8 流 Stream ( 上 )</a>  </li><li><a href="/posts/1054668a.html">十七、Java 8 新日期时间 API ( 下 ) – 格式化</a>  </li><li><a href="/posts/65f9a50c.html">十六、Java 8 新日期时间 API ( 中 ) – 时区日期时间</a>  </li><li><a href="/posts/a5516f38.html">十五、Java 8 新日期时间 API ( 上 ) – 本地日期时间</a>  </li><li><a href="/posts/9a637408.html">十四、Java 8 Nashorn JavaScript</a>  </li><li><a href="/posts/3b70afd5.html">十三、Java 8 可选值 java.util.Optional 类</a>  </li><li><a href="/posts/8d0e4be4.html">十二、Java 8 集合遍历 forEach() 方法</a>  </li><li><a href="/posts/e3c8b1a4.html">十一、Java 8 接口静态方法</a>  </li><li><a href="/posts/efaf0a50.html">十、Java 8 接口 ( interface ) 默认方法</a>  </li><li><a href="/posts/6fd40a1c.html">八、Java 8 Lambda 表达式 （ 下 ）范例</a>  </li><li><a href="/posts/4d9ed831.html">九、Java 8 方法引用</a>  </li><li><a href="/posts/5fb1bf39.html">七、Java 8 Lambda 表达式 （ 中 ）- 外部参数</a>  </li><li><a href="/posts/2bc5fe4b.html">六、Java 8 Lambda 表达式 （ 上 ）- 简介</a>  </li><li><a href="/posts/d747711e.html">五、Java 8 java.util.Base64 编码解码</a>  </li><li><a href="/posts/2063f33b.html">四、Java8 Runnable Lambda 表达式</a>  </li><li><a href="/posts/76994fd6.html">三、Java8 Collectors.joining() 详解</a>  </li><li><a href="/posts/edc65d6d.html">二、Java8 IntStream,LongStream,DoubleStream</a>  </li><li><a href="/posts/c2245ef4.html">一、Java8 收集器 – java.util.stream.Collectors</a>  </li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> Java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Java8 </tag>
+            
+            <tag> 专栏 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>十九、Java 8 流 Stream ( 下 )</title>
       <link href="/posts/f4456923.html"/>
       <url>/posts/f4456923.html</url>
@@ -329,9 +356,9 @@
             
             <tag> Java8 </tag>
             
-            <tag> API </tag>
-            
             <tag> 简介 </tag>
+            
+            <tag> API </tag>
             
             <tag> Lambda </tag>
             
@@ -387,9 +414,9 @@
             
             <tag> Java8 </tag>
             
-            <tag> API </tag>
-            
             <tag> 简介 </tag>
+            
+            <tag> API </tag>
             
             <tag> Lambda </tag>
             
@@ -418,9 +445,9 @@
             
             <tag> Java8 </tag>
             
-            <tag> API </tag>
-            
             <tag> 简介 </tag>
+            
+            <tag> API </tag>
             
             <tag> Lambda </tag>
             
@@ -507,9 +534,9 @@
             
             <tag> Java8 </tag>
             
-            <tag> Collectors </tag>
-            
             <tag> API </tag>
+            
+            <tag> Collectors </tag>
             
             <tag> Stream </tag>
             
@@ -538,9 +565,9 @@
             
             <tag> Java8 </tag>
             
-            <tag> Collectors </tag>
-            
             <tag> API </tag>
+            
+            <tag> Collectors </tag>
             
             <tag> stream </tag>
             
@@ -569,9 +596,9 @@
             
             <tag> Java8 </tag>
             
-            <tag> Collectors </tag>
-            
             <tag> API </tag>
+            
+            <tag> Collectors </tag>
             
             <tag> Stream </tag>
             
@@ -601,6 +628,33 @@
             <tag> API </tag>
             
             <tag> Java并发 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>专栏汇总：Java并发</title>
+      <link href="/posts/718bea50.html"/>
+      <url>/posts/718bea50.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="专栏汇总：Java并发"><a href="#专栏汇总：Java并发" class="headerlink" title="专栏汇总：Java并发"></a><a href="/posts/718bea50.html">专栏汇总：Java并发</a></h1><p>整个系列文章为Java并发专题，一是自己的兴趣，二是，这部分在实际理解上很有难度，另外在面试过程中也是经常被问到。所以在学习过程中，记录了Java并发相关的基础知识，一是自己对知识能够建立体系，同时也希望有幸能够对其他人有用。</p><ul><li> <a href="/posts/2b1d309b.html">十九、Java并发 Java wait() 和 notify() 方法</a>  </li><li> <a href="/posts/c969ad4b.html">十八、Java并发 Java 之 Runnable 还是 Thread ?</a>  </li><li><a href="/posts/9c8c1a2d.html">十七、Java并发 Java Thread 生命周期</a>  </li><li><a href="/posts/9c264667.html">十六、Java并发 Java ThreadLocalRandom</a>  </li><li> <a href="/posts/50778af3.html">十五、Java并发 Java java.util.concurrent.Future</a>  </li><li><a href="/posts/a36784de.html">十四、Java并发 Java 守护线程 ( Daemon Thread )</a>  </li><li> <a href="/posts/e2353faf.html">十三、Java并发 Java java.util.concurrent.Locks</a>  </li><li><a href="/posts/deede7ad.html">十二、Java并发 Java BlockingQueue</a>  </li><li><a href="/posts/92030527.html">十一、Java并发 Java CountDownLatch</a>  </li><li><a href="/posts/774c589b.html">十、Java并发系列之 Java 并发编程面试题</a>  </li><li> <a href="/posts/47722b62.html">九、Java并发 Java CompletableFuture ( 下 )</a>  </li><li> <a href="/posts/1e640cc2.html">八、Java并发 Java CompletableFuture</a>  </li><li><a href="/posts/cb5d7b3f.html">七、Java并发 Java Google Guava 实现</a>  </li><li> <a href="/posts/b57a6e2b.html">六、Java并发 Java ForkJoinPool</a>  </li><li> <a href="/posts/5975178e.html">五、Java并发 ScheduledThreadPoolExecutor</a>  </li><li> <a href="/posts/f6cd6d86.html">四、Java并发 Java 线程池之 ThreadPoolExecutor</a>  </li><li><a href="/posts/bd483eb7.html">三、Java并发 Java 线程池 ( Thread Pool )</a>  </li><li><a href="/posts/4a515c30.html">二、Java并发 Java Fork-Join</a>  </li><li><a href="/posts/d5817b6f.html">一、Java并发 Java ExecutorService</a>  </li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> Java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Java并发 </tag>
+            
+            <tag> 专栏 </tag>
             
         </tags>
       
