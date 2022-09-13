@@ -20,9 +20,9 @@
       
         <tags>
             
-            <tag> Java8 </tag>
-            
             <tag> API </tag>
+            
+            <tag> Java8 </tag>
             
         </tags>
       
@@ -74,9 +74,9 @@
       
         <tags>
             
-            <tag> Java8 </tag>
-            
             <tag> API </tag>
+            
+            <tag> Java8 </tag>
             
             <tag> Stream </tag>
             
@@ -103,9 +103,9 @@
       
         <tags>
             
-            <tag> Java8 </tag>
-            
             <tag> API </tag>
+            
+            <tag> Java8 </tag>
             
             <tag> Stream </tag>
             
@@ -132,9 +132,9 @@
       
         <tags>
             
-            <tag> Java8 </tag>
-            
             <tag> API </tag>
+            
+            <tag> Java8 </tag>
             
             <tag> Date </tag>
             
@@ -161,9 +161,9 @@
       
         <tags>
             
-            <tag> Java8 </tag>
-            
             <tag> API </tag>
+            
+            <tag> Java8 </tag>
             
             <tag> Date </tag>
             
@@ -190,9 +190,9 @@
       
         <tags>
             
-            <tag> Java8 </tag>
-            
             <tag> API </tag>
+            
+            <tag> Java8 </tag>
             
             <tag> Date </tag>
             
@@ -219,9 +219,9 @@
       
         <tags>
             
-            <tag> Java8 </tag>
-            
             <tag> API </tag>
+            
+            <tag> Java8 </tag>
             
         </tags>
       
@@ -246,9 +246,9 @@
       
         <tags>
             
-            <tag> Java8 </tag>
-            
             <tag> API </tag>
+            
+            <tag> Java8 </tag>
             
         </tags>
       
@@ -273,9 +273,9 @@
       
         <tags>
             
-            <tag> Java8 </tag>
-            
             <tag> API </tag>
+            
+            <tag> Java8 </tag>
             
         </tags>
       
@@ -300,9 +300,9 @@
       
         <tags>
             
-            <tag> Java8 </tag>
-            
             <tag> API </tag>
+            
+            <tag> Java8 </tag>
             
         </tags>
       
@@ -327,9 +327,9 @@
       
         <tags>
             
-            <tag> Java8 </tag>
-            
             <tag> API </tag>
+            
+            <tag> Java8 </tag>
             
         </tags>
       
@@ -354,9 +354,9 @@
       
         <tags>
             
-            <tag> Java8 </tag>
-            
             <tag> API </tag>
+            
+            <tag> Java8 </tag>
             
             <tag> 简介 </tag>
             
@@ -385,9 +385,9 @@
       
         <tags>
             
-            <tag> Java8 </tag>
-            
             <tag> API </tag>
+            
+            <tag> Java8 </tag>
             
         </tags>
       
@@ -412,9 +412,9 @@
       
         <tags>
             
-            <tag> Java8 </tag>
-            
             <tag> API </tag>
+            
+            <tag> Java8 </tag>
             
             <tag> 简介 </tag>
             
@@ -443,9 +443,9 @@
       
         <tags>
             
-            <tag> Java8 </tag>
-            
             <tag> API </tag>
+            
+            <tag> Java8 </tag>
             
             <tag> 简介 </tag>
             
@@ -474,9 +474,9 @@
       
         <tags>
             
-            <tag> Java8 </tag>
-            
             <tag> API </tag>
+            
+            <tag> Java8 </tag>
             
             <tag> Base64 </tag>
             
@@ -503,9 +503,9 @@
       
         <tags>
             
-            <tag> Java8 </tag>
-            
             <tag> API </tag>
+            
+            <tag> Java8 </tag>
             
             <tag> Lambda </tag>
             
@@ -532,11 +532,11 @@
       
         <tags>
             
+            <tag> API </tag>
+            
             <tag> Java8 </tag>
             
             <tag> Collectors </tag>
-            
-            <tag> API </tag>
             
             <tag> Stream </tag>
             
@@ -563,11 +563,11 @@
       
         <tags>
             
+            <tag> API </tag>
+            
             <tag> Java8 </tag>
             
             <tag> Collectors </tag>
-            
-            <tag> API </tag>
             
             <tag> stream </tag>
             
@@ -594,11 +594,11 @@
       
         <tags>
             
+            <tag> API </tag>
+            
             <tag> Java8 </tag>
             
             <tag> Collectors </tag>
-            
-            <tag> API </tag>
             
             <tag> Stream </tag>
             
@@ -625,9 +625,9 @@
       
         <tags>
             
-            <tag> API </tag>
-            
             <tag> Java并发 </tag>
+            
+            <tag> API </tag>
             
         </tags>
       
@@ -739,9 +739,9 @@
       
         <tags>
             
-            <tag> API </tag>
-            
             <tag> Java并发 </tag>
+            
+            <tag> API </tag>
             
         </tags>
       
@@ -766,9 +766,9 @@
       
         <tags>
             
-            <tag> API </tag>
-            
             <tag> Java并发 </tag>
+            
+            <tag> API </tag>
             
         </tags>
       
@@ -795,9 +795,9 @@
       
         <tags>
             
-            <tag> API </tag>
-            
             <tag> Java并发 </tag>
+            
+            <tag> API </tag>
             
             <tag> Thread pool </tag>
             
@@ -826,9 +826,9 @@
       
         <tags>
             
-            <tag> API </tag>
-            
             <tag> Java并发 </tag>
+            
+            <tag> API </tag>
             
             <tag> Lock </tag>
             
@@ -855,9 +855,9 @@
       
         <tags>
             
-            <tag> API </tag>
-            
             <tag> Java并发 </tag>
+            
+            <tag> API </tag>
             
             <tag> Executor </tag>
             
@@ -886,9 +886,9 @@
       
         <tags>
             
-            <tag> API </tag>
-            
             <tag> Java并发 </tag>
+            
+            <tag> API </tag>
             
         </tags>
       
@@ -942,9 +942,9 @@
       
         <tags>
             
-            <tag> API </tag>
-            
             <tag> Java并发 </tag>
+            
+            <tag> API </tag>
             
             <tag> Executor </tag>
             
@@ -971,9 +971,9 @@
       
         <tags>
             
-            <tag> API </tag>
-            
             <tag> Java并发 </tag>
+            
+            <tag> API </tag>
             
             <tag> Executor </tag>
             
@@ -1002,9 +1002,9 @@
       
         <tags>
             
-            <tag> API </tag>
-            
             <tag> Java并发 </tag>
+            
+            <tag> API </tag>
             
             <tag> Executor </tag>
             
@@ -1035,9 +1035,9 @@
       
         <tags>
             
-            <tag> API </tag>
-            
             <tag> Java并发 </tag>
+            
+            <tag> API </tag>
             
             <tag> Executor </tag>
             
@@ -1066,9 +1066,9 @@
       
         <tags>
             
-            <tag> API </tag>
-            
             <tag> Java并发 </tag>
+            
+            <tag> API </tag>
             
             <tag> Executor </tag>
             
@@ -1099,9 +1099,9 @@
       
         <tags>
             
-            <tag> API </tag>
-            
             <tag> Java并发 </tag>
+            
+            <tag> API </tag>
             
             <tag> Executor </tag>
             
@@ -1132,9 +1132,9 @@
       
         <tags>
             
-            <tag> API </tag>
-            
             <tag> Java并发 </tag>
+            
+            <tag> API </tag>
             
             <tag> Executor </tag>
             
@@ -1165,9 +1165,9 @@
       
         <tags>
             
-            <tag> API </tag>
-            
             <tag> Java并发 </tag>
+            
+            <tag> API </tag>
             
             <tag> Thread pool </tag>
             
@@ -1200,9 +1200,9 @@
       
         <tags>
             
-            <tag> API </tag>
-            
             <tag> Java并发 </tag>
+            
+            <tag> API </tag>
             
             <tag> Executor </tag>
             
