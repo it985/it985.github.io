@@ -1,0 +1,164 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta content="width=device-width" name="viewport">
+<title>网站缩略图在线生成工具 - 多样式多端 - 小志IT</title>
+<meta name="keywords" content="网站缩略图生成,在线生成网站缩略图,生成网站缩略图,网站缩略图在线生成">
+<meta name="description" content="网站缩略图在线生成工具，是一个强大实用的免费多端多设备网站缩略图在线生成服务站，它能在几秒钟内，透过您所输入的网址，在线生成该网站或网页的多设备端缩图。">
+<link href="style.css" rel="stylesheet">
+<script>
+!function(p){"use strict";!function(t){var s=window,e=document,i=p,c="".concat("https:"===e.location.protocol?"https://":"http://","sdk.51.la/js-sdk-pro.min.js"),n=e.createElement("script"),r=e.getElementsByTagName("script")[0];n.type="text/javascript",n.setAttribute("charset","UTF-8"),n.async=!0,n.src=c,n.id="LA_COLLECT",i.d=n;var o=function(){s.LA.ids.push(i)};s.LA?s.LA.ids&&o():(s.LA=p,s.LA.ids=[],o()),r.parentNode.insertBefore(n,r)}()}({id:"JitJIvcwgWUFGLQW",ck:"JitJIvcwgWUFGLQW"});
+</script>
+<script async src="adsbygoogle.js"></script>
+<style>
+     
+    
+    .title {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    
+    .title h1 {
+      font-size: 24px;
+      color: #333;
+    }
+    
+    .download-button {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    
+    .download-button button {
+      padding: 10px 20px;
+      border-radius: 5px;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+</style>
+</head>
+<body class="btnID" x-data="{style:'',url:'',murl:'',mobile:'https://www.tryrun.top',desktop:'https://www.tryrun.top'}" :style="style">
+     <div class="container">
+          <div class="title">
+            <h1>三端响应式布局截图工具</h1>
+          </div>
+<div class="tijiaoform">
+<div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
+     <input x-model="url" type="text" placeholder="输入您的域名(需加https)" name="url" style="padding: 10px; margin-bottom: 10px; border-radius: 5px; border: 1px solid #ccc; width: 300px;">
+     <input x-model="murl" type="text" placeholder="输入手机端网址(自适应可空)" name="murl" style="padding: 10px; margin-bottom: 10px; border-radius: 5px; border: 1px solid #ccc; width: 300px;">
+     <button type="button" @click="if(url){mobile=url;desktop=url;}else{alert('电脑端网址禁止为空');}if(murl){mobile=murl;}" style="padding: 10px 20px; border-radius: 5px; background-color: #4CAF50; color: white; border: none; cursor: pointer;">生成</button>
+  </style>
+</div>
+<div class="download-button">
+  <button id="downloadButton">下载缩略图</button>
+</div>
+<div id="wrapper">
+</div>
+</head>
+<body>
+
+
+
+  <script>
+    window.onload = function() {
+  var downloadButton = document.getElementById('downloadButton');
+  var wrapperElement = document.querySelector('.wrapper');
+  var selectedElement = null;
+  var canvas = document.createElement('canvas');
+  var context = canvas.getContext('2d');
+
+  // Function to handle element selection
+  function selectElement(element) {
+    if (selectedElement) {
+      selectedElement.classList.remove('selected');
+    }
+    selectedElement = element;
+    element.classList.add('selected');
+  }
+
+  // Event listener for selecting elements
+  wrapperElement.addEventListener('click', function(event) {
+    event.preventDefault();
+    selectElement(event.target);
+  });
+
+  downloadButton.addEventListener('click', function() {
+    if (!selectedElement) {
+      alert('Please select an element to capture.');
+      return;
+    }
+
+    // Set the canvas dimensions to match the selected element
+    canvas.width = selectedElement.offsetWidth;
+    canvas.height = selectedElement.offsetHeight;
+
+    // Draw the selected element onto the canvas
+    context.drawImage(selectedElement, 0, 0, canvas.width, canvas.height);
+
+    // Convert canvas content to a data URL
+    var dataURL = canvas.toDataURL('image/png');
+
+    // Create a download link and trigger the download
+    var downloadLink = document.createElement('a');
+    downloadLink.href = dataURL;
+    downloadLink.download = 'screenshot.png';
+    downloadLink.click();
+  });
+};
+
+  </script>
+  
+  
+  
+  
+  
+
+<div class="wrapper"><!--在浏览器控制台选中该元素后使用ctrl+shift+p然后搜索"截图"选择按元素截图即可-->
+<section class="display">
+<div class="mobile ui-draggable">
+<div class="trim">
+<iframe :src="mobile" id="mobile" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
+</iframe>
+</div>
+</div>
+
+<div class="tablet ui-draggable">
+<div class="trim">
+<iframe :src="desktop" id="tablet" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
+</iframe>
+</div>
+</div>
+
+
+<div class="desktop ui-draggable">
+<div class="trim">
+
+<iframe :src="desktop" id="desktop" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
+</iframe>
+
+</div>
+</div>
+
+
+</section>
+</div>
+ 
+
+<div>
+	<ins class="adsbygoogle" style="display: block;
+    margin-bottom: 50px;
+    text-align: center;
+    max-width: 100%;
+    overflow: hidden;
+    height: 124px;" data-ad-format="fluid" data-ad-layout-key="-h2+d+5c-9-3e" data-ad-client="ca-pub-8150069612114351"
+ data-ad-slot="2691052847"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+    
+<script src="https://cdn.staticfile.org/alpinejs/3.9.6/cdn.min.js" defer></script>
+
+
+</body>
+</html>
