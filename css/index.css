@@ -11078,7 +11078,7 @@ h1.page-title + .tag-cloud-list {
   -ms-transform: rotate(10deg) translateY(-10%) scale(var(--anzhiyu-header-cover-scale));
   transform: rotate(10deg) translateY(-10%) scale(var(--anzhiyu-header-cover-scale));
   will-change: transform;
-  filter: blur(10px) brightness(60%);
+  filter: blur(0) brightness(60%);
   -webkit-animation: none;
   -moz-animation: none;
   -o-animation: none;
